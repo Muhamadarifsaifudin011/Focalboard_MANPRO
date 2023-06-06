@@ -1,18 +1,27 @@
-# Focalboard-ToolManajemenProyek
+# Focalboard_ManajemenProyek
 
-> Thomas Andrew I - 19081010165
+> Muhamad Arif Saifudin - 19081010011
 
 ## Tentang Focalboard
-Focalboard adalah *tool* manajemen proyek yang bersifat *open source* dapat dijadikan alternatif *tool* seperti Asana, Trello, dan notion. *Tool* ini sangat membantu manajemen proyek yang anda kerjakan dengan tim maupun *private*. Focalboard terdapat tiga edisi sebagai berikut :
+Platform Focalboard adalah aplikasi berbasis web yang digunakan untuk manajemen tugas, kolaborasi tim, dan organisasi proyek. Focalboard dirancang untuk membantu tim dalam mengatur dan melacak pekerjaan mereka dengan cara yang terstruktur dan efisien. Aplikasi ini menawarkan berbagai fitur dan alat yang memungkinkan tim untuk mengatur tugas, mengelola informasi, dan berkomunikasi dalam satu tempat.
 
-### 1. Mattermost Boards
-Terintegrasi dengan platform Mattermost untuk kolaborasi dan perencanaan proyek.
+Berikut adalah beberapa fitur utama dari platform Focalboard:
 
-### 2. Personal Desktop 
-Aplikasi dekstop mandiri, pengguna tunggal Windows, MacOS, atau Linux untuk proyek pribadi. Jika ingin mendownload klik [here](https://github.com/mattermost/focalboard/releases) or [this](https://www.focalboard.com/download/personal-edition/desktop/)!
+1. Papan Kerja: Focalboard menggunakan konsep papan kerja (board) yang fleksibel untuk mengatur tugas dan informasi. Anda dapat membuat papan kerja khusus untuk proyek, tim, atau kategori tertentu, dan menambahkan kartu (card) untuk mewakili tugas atau item lainnya.
 
-### 3. Personal Server 
-Server multi-pengguna mandiri yang digunakan untuk pengembangan pribadi. Download klik [here](https://www.focalboard.com/download/personal-edition/ubuntu/)!
+2. Tugas dan Subtugas: Anda dapat membuat tugas di dalam kartu dan membaginya menjadi subtugas yang lebih kecil. Anda dapat menetapkan penanggung jawab, batas waktu, dan atribut lainnya untuk setiap tugas.
+
+3. Penugasan dan Kolaborasi: Focalboard memungkinkan Anda menugaskan tugas kepada anggota tim dan mengelola tanggung jawab masing-masing. Anda dapat berkomunikasi dan berkolaborasi dalam konteks tugas melalui komentar dan pembaruan status.
+
+4. Daftar dan Tampilan Kalender: Selain tampilan papan kerja, Focalboard juga menyediakan tampilan daftar yang rapi dan tampilan kalender untuk melihat tugas berdasarkan tanggal atau urutan.
+
+5. Catatan dan Lampiran: Anda dapat melampirkan catatan, file, atau dokumen penting ke kartu tugas untuk mengorganisir informasi terkait dengan tugas tersebut.
+
+6. Integrasi dengan Aplikasi Pihak Ketiga: Focalboard mendukung integrasi dengan berbagai aplikasi dan layanan pihak ketiga, seperti Google Drive, GitHub, Slack, dan lainnya. Integrasi ini memungkinkan Anda menghubungkan dan berbagi data antara Focalboard dan alat lain yang digunakan oleh tim Anda.
+
+7. Akses dan Pengaturan Privasi: Anda dapat mengatur aksesibilitas dan hak akses untuk setiap papan kerja dan anggota tim. Ini memungkinkan Anda mengontrol siapa yang dapat melihat, mengedit, atau mengelola tugas dan informasi di Focalboard.
+
+Focalboard adalah aplikasi open-source yang dapat diunduh dan dijalankan di server lokal atau di-host di cloud. Hal ini memberikan fleksibilitas dan kendali lebih dalam menjaga keamanan dan privasi data tim Anda.
 
 ## Cara Penggunaan Focalboard
 
